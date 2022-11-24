@@ -1,9 +1,9 @@
-# Any-file-to-Google-Drive
-This is a Google Colab notebook with Jdownloader and Rclone, which can download any file to Google Drive. 
+# Any-file-to-Pixeldrain
+This is a Google Colab notebook with Jdownloader , which can download any file to Pixeldrain. 
 
 <b>Features:</b>
-1. Jdownloader as web interface
-2. Ability to mount Google Drive with rClone
+1. Jdownloader as web interface.
+2. Easy upload of all files in a directory to Pixeldrain.
 
 <br><b>Usage:</b>
 <br>
